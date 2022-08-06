@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sensegrass-dev-210828-authRole",
+      "UnauthRoleArn": "arn:aws:iam::007040099791:role/amplify-sensegrass-dev-210828-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::007040099791:role/amplify-sensegrass-dev-210828-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-sensegrass-dev-210828-deployment",
+      "UnauthRoleName": "amplify-sensegrass-dev-210828-unauthRole",
+      "StackName": "amplify-sensegrass-dev-210828",
+      "StackId": "arn:aws:cloudformation:us-east-1:007040099791:stack/amplify-sensegrass-dev-210828/7f678580-140b-11ed-ba7a-0a99c9da0e41",
+      "AmplifyAppId": "d92v2396co21o"
+    },
+    "categories": {
+      "auth": {
+        "sensegrass05035eb5": {}
+      },
+      "function": {
+        "sensegrass7bc6b8d0": {
+          "deploymentBucketName": "amplify-sensegrass-dev-210828-deployment",
+          "s3Key": "amplify-builds/sensegrass7bc6b8d0-5261554a6d347a794752-build.zip"
+        }
+      }
+    }
+  }
+}

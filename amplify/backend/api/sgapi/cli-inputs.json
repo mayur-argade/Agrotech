@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/sensor": {
+      "name": "/sensor",
+      "lambdaFunction": "sensegrass7bc6b8d0",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
